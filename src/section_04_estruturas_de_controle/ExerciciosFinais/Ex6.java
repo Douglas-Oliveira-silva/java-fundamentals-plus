@@ -9,7 +9,7 @@ public class Ex6 {
         //O Jogador tem 10 tentativas para adivinhar o número gerado.
         //Ao final de cada tentativa, imprima a quantidade de tentativas restantes, e imprima se o número inserido é maior ou menor do que o número armazenado.
 
-        // Inicando Scanner
+        // Iniciando Scanner
         Scanner entrada = new Scanner(System.in);
 
         // Variaveis
